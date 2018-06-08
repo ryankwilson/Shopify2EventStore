@@ -1,0 +1,11 @@
+C:\code\Shopify2EventStore\bin\Debug\netcoreapp2.0\Shopify2EventStore.deps.json
+C:\code\Shopify2EventStore\bin\Debug\netcoreapp2.0\Shopify2EventStore.runtimeconfig.json
+C:\code\Shopify2EventStore\bin\Debug\netcoreapp2.0\Shopify2EventStore.runtimeconfig.dev.json
+C:\code\Shopify2EventStore\bin\Debug\netcoreapp2.0\Shopify2EventStore.dll
+C:\code\Shopify2EventStore\bin\Debug\netcoreapp2.0\Shopify2EventStore.pdb
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.csprojAssemblyReference.cache
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.csproj.CoreCompileInputs.cache
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.AssemblyInfoInputs.cache
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.AssemblyInfo.cs
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.dll
+C:\code\Shopify2EventStore\obj\Debug\netcoreapp2.0\Shopify2EventStore.pdb
