@@ -1,6 +1,6 @@
 using System;
 
-public class BaseEvent
+public class ShopifyEvent
 {
     public long id;
     public long subject_id;

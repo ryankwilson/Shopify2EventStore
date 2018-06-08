@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 public class EventResults {
-    private List<BaseEvent> _events;
+    private List<ShopifyEvent> _events;
 
-    public List<BaseEvent> Events { get => _events; set => _events = value; }
+    public List<ShopifyEvent> Events { get => _events; set => _events = value; }
 }
